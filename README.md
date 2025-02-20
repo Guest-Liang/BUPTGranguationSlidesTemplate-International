@@ -10,7 +10,7 @@
 
 ***
 # 以上为原repo内容
-原仓库链接：[JiulongWang/BUPTGranguationPowerPointTemplate](https://github.com/Guest-Liang/BUPTGranguationSlidesTemplate-International)
+原仓库链接：[JiulongWang/BUPTGranguationPowerPointTemplate](https://github.com/JiulongWang/BUPTGranguationPowerPointTemplate)
 
 **修改了一点，加入QMUL标志和调整文字、版权信息，更适合国际学院使用（**
 
