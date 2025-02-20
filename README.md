@@ -7,3 +7,13 @@
 如果你对我的毕设感兴趣可以看看[这个仓库](https://github.com/JiulongWang/snn-am)。
 
 2023.06.05
+
+***
+# 以上为原repo内容
+原仓库链接：[JiulongWang/BUPTGranguationPowerPointTemplate](https://github.com/Guest-Liang/BUPTGranguationSlidesTemplate-International)
+
+**修改了一点，加入QMUL标志和调整文字、版权信息，更适合国际学院使用（**
+
+如果你对我的毕设也感兴趣，说不定你也会点击[这个链接](https://github.com/Guest-Liang/2024-25FinalProject)
+
+2025.02.20
